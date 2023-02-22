@@ -1,0 +1,10 @@
+2023-02-22 20:13:19,542:DEBUG:This is a debug message
+2023-02-22 20:13:19,542:INFO:This is an info message
+2023-02-22 20:13:19,542:WARNING:This is a warning message
+2023-02-22 20:13:19,542:ERROR:This is an error message
+2023-02-22 20:13:19,542:CRITICAL:This is a critical message
+2023-02-22 20:14:19,921:DEBUG:This is a debug message
+2023-02-22 20:14:19,921:INFO:This is an info message
+2023-02-22 20:14:19,921:WARNING:This is a warning message
+2023-02-22 20:14:19,922:ERROR:This is an error message
+2023-02-22 20:14:19,922:CRITICAL:This is a critical message
